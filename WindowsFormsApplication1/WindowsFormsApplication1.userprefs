@@ -1,11 +1,13 @@
 ﻿<Properties StartupItem="WindowsFormsApplication1/WindowsFormsApplication1.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsFormsApplication1/AddItem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsFormsApplication1/Properties/Settings.Designer.cs">
     <Files>
       <File FileName="WindowsFormsApplication1/Program.cs" Line="1" Column="1" />
-      <File FileName="WindowsFormsApplication1/Form1.cs" Line="1" Column="1" />
+      <File FileName="WindowsFormsApplication1/Form1.cs" Line="9" Column="7" />
       <File FileName="WindowsFormsApplication1/App.config" Line="1" Column="1" />
       <File FileName="WindowsFormsApplication1/AddItem.cs" Line="1" Column="1" />
+      <File FileName="WindowsFormsApplication1/Properties/Resources.Designer.cs" Line="1" Column="1" />
+      <File FileName="WindowsFormsApplication1/Properties/Settings.Designer.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
