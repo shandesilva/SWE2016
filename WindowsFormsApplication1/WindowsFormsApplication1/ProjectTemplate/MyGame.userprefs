@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="MyGame.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug-Windows|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/GameMain.cs">
+    <Files>
+      <File FileName="src/GameMain.cs" Line="1" Column="1" />
+      <File FileName="src/Rectangle.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\teaching\Michel\week4\task_11\CSharp_SwinGame_3_5_XAMARIANSTUDIO\ProjectTemplate\src\GameMain.cs" line="76" column="6" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
